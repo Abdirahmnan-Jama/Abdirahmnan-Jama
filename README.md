@@ -1,7 +1,7 @@
-<img src="/crop.jpg" width="50%" height="50%">
+<img src="/crop.jpg" width="50%" height="50%"> ## *👋 Hi, Abdirahman jama!*  
 
 
-## *👋 Hi, Abdirahman jama!*  
+
 🚀 *Php Full-Stack Developer | Open-Source Enthusiast*  
 
 full-stack developer , exploring new technologies to build scalable web solutions.🚀  
