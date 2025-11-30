@@ -1,4 +1,4 @@
-<img src="/Abdirahman.jpg" width="100%">
+<img src="/Abdirahman.jpg" width="50%">
 
 
 ## *👋 Hi, Abdirahman jama!*  
